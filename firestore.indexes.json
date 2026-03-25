@@ -1,0 +1,14 @@
+[
+  {
+    "collectionGroup": "default",
+    "queryScope": "COLLECTION",
+    "fields": [
+      {
+        "fieldPath": "__name__",
+        "order": "ASCENDING"
+      }
+    ],
+    "indexes": []
+  }
+]
+
